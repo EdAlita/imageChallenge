@@ -1,4 +1,4 @@
-# imageChallenge
+# Image Challenge for CADx 
 
 - [How to get the data](#how-to-get-the-data)
 - [Challenge 1](#challenge-1)
@@ -27,6 +27,12 @@ Some *hints* are going to be provide when we see appropiate.
 In this challenge you are provide with some input images, output images, a broken code and the test images. The objetive is to fix the code and provide the output of the test images. 
 
 ## Rules
+
+1. The challenges are solve in the same teams as the labs ones.
+2. Avoid the use of AI such as Chat GPT.
+3. 
+4. 
+5. 
 
 ## Point System
 
