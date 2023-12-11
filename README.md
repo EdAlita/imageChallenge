@@ -39,3 +39,20 @@ In this challenge you are provide with some input images, output images, a broke
 For your submission will be evaluated by DICE with the gt images, we will used the dice value and multiply it by 10 to calculated the score of each of the images, the total score will be the sum of all the images.
 
 ## How to deliver
+
+Create a zip file with the next structure with your submition.
+
+```
+
+Team_name
+├── Challenge_1
+│   ├── output_1.jpg     //Prostate_image
+│   ├── output_2.jpg    //chest_image
+│   └── output_3.jpg    //brain
+└── Challenge_2
+    ├── q1.png
+    ├── q2.png
+    └── q3.png
+```
+
+Upload the file to the next drive, please only one submition per team.
