@@ -66,18 +66,21 @@ For your submission will be evaluated by DICE with the gt images, we will used t
 
 ## How to deliver
 
-Create a zip file with the next structure with your submition.
+You need to deliver your answer in this [link](https://forms.gle/jTufAkcqttV2KsJL7)
 
 ```
-Team_name
-├── Challenge_1
-│   ├── output_1.jpg     //Prostate_image
-│   ├── output_2.jpg    //chest_image
-│   └── output_3.jpg    //brain
-└── Challenge_2
-    ├── q1.png
-    ├── q2.png
-    └── q3.png
-```
+RESPECT THE NAME OF THE FILES FOR YOUR SUBMITION
 
-Upload the file to the next drive, please only one submition per team.
+Challenge_1
+ ├── output_1.jpg     //Prostate_image
+ ├── output_2.jpg    //chest_image
+ └── output_3.jpg    //brain
+
+FOR THE ZIP FILE USE THIS STRUCTURE AND THE FILES NAMES
+
+Challenge_2
+ ├── q1.png
+ ├── q2.png
+ └── q3.png
+
+```
