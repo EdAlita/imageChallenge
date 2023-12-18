@@ -13,7 +13,6 @@ Clone the the repository to your own mahine. with the next line of code:
 
 ```
 git clone git@github.com:EdAlita/imageChallenge.git
-
 ```
 
 To install the requieremnts libraries to this callenge you can run:
@@ -21,7 +20,6 @@ To install the requieremnts libraries to this callenge you can run:
 
 ```
 pip install -r requirements. txt
-
 ```
 
 ## Challenge 1
@@ -55,7 +53,6 @@ Challenge_2
     ├── test1_out.png
     ├── test2_in.tif
     └── test2_out.png
-
 ```
 
 ## Rules
