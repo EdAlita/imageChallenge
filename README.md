@@ -66,7 +66,7 @@ For your submission will be evaluated by DICE with the gt images, we will use th
 
 ## How to deliver
 
-You need to deliver your answer in this [link](https://forms.gle/jTufAkcqttV2KsJL7)
+You need to deliver your answer to the 1st Challenge [link](https://forms.gle/jTufAkcqttV2KsJL7) and the second Challenge [link](https://forms.gle/w3D4fpjWi9sCDQ389)
 
 ```
 RESPECT THE NAME OF THE FILES FOR YOUR SUBMISSION
